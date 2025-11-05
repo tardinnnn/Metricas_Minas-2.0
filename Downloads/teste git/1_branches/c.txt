@@ -1,0 +1,5 @@
+Estou modificando a pasta primeiro repositório estando com a apsta clone repo aberta no terminal 
+Fazendo a modificação novamente 
+Tentanto novamente realizar o merge bem sucedido, agora utilizarei o "git merge <main> --no-edit"
+
+Deu certo, agora vou tentar o git merge, só que dessa vez adicionando :wq para ver e funcionará
